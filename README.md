@@ -1,3 +1,3 @@
 # sandraLeetcode
 
-![sandra](/images/profile.jpeg)
+![sandra](/images/profile.JPG)

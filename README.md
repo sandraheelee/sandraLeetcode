@@ -1,7 +1,7 @@
 # Welcome to my LeetCode Challenge Page
 
 ![sandra](/images/profile.JPG)
-![Find my leetcodes here](https://github.com/sandraheelee/sandraLeetcode/tree/master/src)
+* ![Find my leetcodes here](https://github.com/sandraheelee/sandraLeetcode/tree/master/src)
 ## You can find me at:
 * [LinkedIn](https://www.linkedin.com/in/sandralee-tech/)
 * [Medium](https://medium.com/@sandra.bug)

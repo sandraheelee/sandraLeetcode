@@ -1,3 +1,3 @@
 # sandraLeetcode
 
-![alt text](https://ibb.co/jhg0pbG)
+![sandra](/images/profile.jpg)

@@ -7,3 +7,8 @@
 * [Medium](https://medium.com/@sandra.bug)
 * [Webpage](https://sandralee.tech)
 
+
+
+### Inspiration
+1. [Jomatech](https://www.youtube.com/watch?v=pKO9UjSeLew&list=PUV0qA-eDDICsRR9rPcnG7tw)
+2. Kotlin

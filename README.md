@@ -1,3 +1,8 @@
-# sandraLeetcode
+# Welcome to my LeetCode Challenge Page
 
 ![sandra](/images/profile.JPG)
+
+## You can find me at:
+* [LinkedIn](https://www.linkedin.com/in/sandralee-tech/)
+* [Medium](https://medium.com/@sandra.bug)
+
